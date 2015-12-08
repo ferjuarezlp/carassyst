@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">CarAssist</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="action_discovery">Discovery</string>
+    <string name="action_expenses">Expenses</string>
+    <string name="action_notes">Notes</string>
+    <string name="action_alerts">Alerts</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_share">Share</string>
+    <string name="action_feedback">Feedback</string>
+
+    <string name="title_discover">Discover Nearby Deals</string>
+    <string name="title_expenses">Add Expense</string>
+    <string name="title_notes">Add Note</string>
+    <string name="title_alerts">Add Alert</string>
+
+    <string name="action_add">Add</string>
+    <string name="title_add_visiting_card">Add New Card</string>
+    <string name="title_update_visiting_card">Update Card</string>
+    <string name="item_deleted">Item deleted</string>
+
+    <string name="hint_description">Description</string>
+    <string name="hint_amount">Amount</string>
+    <string name="hint_category">Category</string>
+    <string name="hint_date">Date (dd/mm/aa) </string>
+    <string name="msg_error_description">Please complete a description</string>
+    <string name="msg_error_amount">Please complete an amount</string>
+    <string name="msg_error_category">Please complete a category</string>
+
+    <string name="category">Please complete a category</string>
+    <string-array name="categories">
+        <item>Repair</item>
+        <item>Fuel</item>
+        <item>Supplies</item>
+        <item>Garage</item>
+        <item>Insurance</item>
+    </string-array>
+
+
+</resources>
